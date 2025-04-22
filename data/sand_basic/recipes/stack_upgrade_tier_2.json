@@ -1,0 +1,19 @@
+{
+	"result":{
+		"item":"sophisticatedbackpacks:stack_upgrade_tier_2"
+	},
+	"pattern":[
+		"aaa",
+		"aba",
+		"aaa"
+	],
+	"type":"crafting_shaped",
+	"key":{
+		"a":{
+			"item":"gold_ingot"
+		},
+		"b":{
+			"item":"sophisticatedbackpacks:stack_upgrade_tier_1"
+		}
+	}
+}

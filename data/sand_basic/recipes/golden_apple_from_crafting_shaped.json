@@ -1,0 +1,19 @@
+{
+	"result":{
+		"item":"golden_apple"
+	},
+	"pattern":[
+		" a ",
+		"aba",
+		" a "
+	],
+	"type":"crafting_shaped",
+	"key":{
+		"a":{
+			"item":"gold_ingot"
+		},
+		"b":{
+			"item":"apple"
+		}
+	}
+}

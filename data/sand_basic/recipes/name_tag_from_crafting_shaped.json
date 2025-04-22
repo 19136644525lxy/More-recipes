@@ -1,0 +1,39 @@
+{
+	"result":{
+		"item":"name_tag"
+	},
+	"pattern":[
+		" a ",
+		"bba",
+		"bb "
+	],
+	"type":"crafting_shaped",
+	"key":{
+		"a":{
+			"item":"iron_ingot"
+		},
+		"b":[
+			{
+				"item":"oak_planks"
+			},
+			{
+				"item":"acacia_planks"
+			},
+			{
+				"item":"birch_planks"
+			},
+			{
+				"item":"crimson_planks"
+			},
+			{
+				"item":"dark_oak_planks"
+			},
+			{
+				"item":"jungle_planks"
+			},
+			{
+				"item":"mangrove_planks"
+			}
+		]
+	}
+}

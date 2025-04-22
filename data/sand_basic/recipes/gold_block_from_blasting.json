@@ -1,0 +1,9 @@
+{
+	"result":"gold_block",
+	"ingredient":{
+		"item":"raw_gold_block"
+	},
+	"type":"blasting",
+	"experience":5.0,
+	"cookingtime":500
+}

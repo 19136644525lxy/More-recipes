@@ -1,0 +1,27 @@
+{
+	"result":{
+		"item":"totem_of_undying"
+	},
+	"pattern":[
+		"aaa",
+		"bcb",
+		" b "
+	],
+	"type":"crafting_shaped",
+	"key":{
+		"a":[
+			{
+				"item":"iron_ingot"
+			},
+			{
+				"item":"gold_ingot"
+			}
+		],
+		"b":{
+			"item":"diamond"
+		},
+		"c":{
+			"item":"diamond_block"
+		}
+	}
+}

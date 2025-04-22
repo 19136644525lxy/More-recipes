@@ -1,0 +1,9 @@
+{
+	"result":"copper_block",
+	"ingredient":{
+		"item":"raw_copper_block"
+	},
+	"type":"blasting",
+	"experience":5.0,
+	"cookingtime":500
+}

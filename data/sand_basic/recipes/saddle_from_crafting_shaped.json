@@ -1,0 +1,16 @@
+{
+	"result":{
+		"item":"saddle"
+	},
+	"pattern":[
+		"   ",
+		"aaa",
+		"a a"
+	],
+	"type":"crafting_shaped",
+	"key":{
+		"a":{
+			"item":"leather"
+		}
+	}
+}

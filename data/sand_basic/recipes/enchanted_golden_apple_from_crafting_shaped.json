@@ -1,0 +1,19 @@
+{
+	"result":{
+		"item":"enchanted_golden_apple"
+	},
+	"pattern":[
+		"aaa",
+		"aba",
+		"aaa"
+	],
+	"type":"crafting_shaped",
+	"key":{
+		"a":{
+			"item":"gold_block"
+		},
+		"b":{
+			"item":"apple"
+		}
+	}
+}

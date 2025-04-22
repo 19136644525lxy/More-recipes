@@ -1,0 +1,19 @@
+{
+	"result":{
+		"item":"sophisticatedbackpacks:stack_upgrade_tier_3"
+	},
+	"pattern":[
+		"aaa",
+		"aba",
+		"aaa"
+	],
+	"type":"crafting_shaped",
+	"key":{
+		"a":{
+			"item":"diamond"
+		},
+		"b":{
+			"item":"sophisticatedbackpacks:stack_upgrade_tier_2"
+		}
+	}
+}
